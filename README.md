@@ -7,7 +7,7 @@ I'm basically a digital gremlin with a passion for fun, glitches, and glitter.
 
 - I like doin’ things. All kinds. Even the weird ones. Especially the weird ones.  
 - im vewwy zilly :3 like dangerously zilly. like someone-should-stop-me zilly.  
-- i get random hyperfixations and go full goblin mode on code and electronics hehe  
+- i go full goblin mode on code and electronics hehe  
 - i have a roblox group :D [Dry Playdoh Studios](https://www.roblox.com/communities/35357014/Dry-Play-doh-Studios) and more!! check it all out or else >:3  
 - im also tryna take over the internet, like, gently.
 
