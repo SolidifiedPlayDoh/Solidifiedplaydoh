@@ -10,8 +10,10 @@ Everything I build has at least *3 sprinkles of silliness* in it. It's a rule. I
 - i have a roblox group :D [Dry Playdoh Studios](https://www.roblox.com/communities/35357014/Dry-Play-doh-Studios) and more!! check it all out or else >:3  
 - im also tryna take over the internet but, like, gently.
 
-currently working on:
-> MCP servers to let [Cursor](https://www.cursor.com/en) be able to control your mouse to help complete tasks. using node js. repo will be avalible soon!
+Currently working on:  
+**TamaCLI** — a little pet (like a Tamagotchi!) that lives inside your terminal.  
+Feed it compliments every 10 minutes or it gets sad :(  
+Repo coming soon!
 
 Wanna see where my chaos came from? Go check out my dad. He's ultra cool:
 [@martinemde](https://github.com/MartinEmde) 💼🌟
