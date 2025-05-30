@@ -12,7 +12,7 @@ Everything I build has at least *3 sprinkles of silliness* in it. It's a rule. I
 
 Currently working on:  
 **TamaCLI** — a little pet (like a Tamagotchi!) that lives inside your terminal.  
-Feed it compliments every 10 minutes or it gets sad :(  
+Feed it or it gets sad :(  
 Repo coming soon!
 
 Wanna see where my chaos came from? Go check out my dad. He's ultra cool:
