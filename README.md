@@ -17,3 +17,6 @@ Repo coming soon!
 
 Wanna see where my chaos came from? Go check out my dad. He's ultra cool:
 [@martinemde](https://github.com/MartinEmde) 💼🌟
+
+links for me cuz im too lazy to find my own repos:
+none yet monkey
