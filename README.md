@@ -1,4 +1,4 @@
-# Hewwooo!! I'm Cardsea!!
+# Hewwooo!! I'm SolidifiedPlayDoh!!
 
 I'm just a smol bean who loves makin' things with code.  
 I mess around with stuffs and goofy lil projects all the time!!  
