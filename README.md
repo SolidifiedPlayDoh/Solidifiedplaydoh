@@ -10,4 +10,4 @@ Everything I build has at least *3 sprinkles of silliness* in it. It's a rule. I
 - i have a roblox group :D [Dry Playdoh Studios](https://www.roblox.com/communities/35357014/Dry-Play-doh-Studios) and more!! check it all out or else >:3  
 - im also tryna take over the internet but, like, gently.
 
-  And I recently changed my username from cardsea to solidifiedplaydoh. I didn't read the effects because I was doing an autism :3, so some of my stuff is prolly f**ked up
+  And I recently changed my username from cardsea to solidifiedplaydoh. I didn't read the effects because I was doing an autism TwT so some of my stuff is prolly f**ked up
