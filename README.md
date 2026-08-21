@@ -46,9 +46,9 @@ there's more in the repos. some of it's public. some of it's "this is for me and
 
 ---
 
-### cursed achievement unlocked
+### totally my greatest life achievement
 
-i am 2025's **top 1% of chatgpt users**. i did not do this on purpose. it just kinda happened.
+i am 2025's **top 1% of chatgpt users**. (on a free account btw)
 
 <p align="center">
   <img width="280" alt="top 1% chatgpt users 2025" src="https://github.com/user-attachments/assets/d9813c9e-ba6c-423d-a160-2bc5f38b20ba" />
