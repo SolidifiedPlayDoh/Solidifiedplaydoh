@@ -16,11 +16,11 @@
 
 ---
 
-hi i'm **soli**. sometimes **solidified**. the playdoh is in the name on purpose.
+hi i'm **soli**. sometimes **solidifiedplaydoh**. some ppl call me "big red" (for some fucking reason)
 
-i like hacking things and making them do what they were never meant to do. if i own something, i should be able to mod it to do whatever i want. reverse engineer the bluetooth. slap an overlay on a minigame. turn a sound machine into a home assistant thing. neon-ify my editor until it looks like 2010 tron. that kind of energy.
+i like hacking things (and no I dont mean the cringe "hacker" person that is usually a poser. I actually enjoy and get fun out of reverse engineering and flashing stuff to make them do what they were never meant to do. and this is something I think should be the norm. If I bought it. I have the right to hack it. and no company can tell me they will take it away from me if I do. it should be one of my rights, to mod my own stuff, reverse engineer the bluetooth. slap an overlay on it or install a minigame, neon-ify my editor until it looks like 2010 tron. that kind of crap. ITS MINE. LET ME TREAT IT LIKE IT IS
 
-also autistic. also loud about it. if for some reason you want the longer version of me, it's over here → **[solidified.dev](https://solidified.dev/)**
+I also have the tism. if for some reason you want the longer version of me (not like that ew), it's over here I think → **[solidified.dev](https://solidified.dev/)**
 
 <p align="center">
   <img src="https://img.shields.io/badge/right%20to%20repair-yes-7CFF6B?style=flat-square" alt="right to repair" />
@@ -31,7 +31,7 @@ also autistic. also loud about it. if for some reason you want the longer versio
 
 ---
 
-### stuff i've been poking at
+### stuff i've been clicking on (aka, staying up past 10:30 writing a readme because the vibe coded version sounded like buns)
 
 <p align="center">
   <a href="https://github.com/SolidifiedPlayDoh/dohm-ble"><img src="https://img.shields.io/badge/dohm--ble-reverse%20engineered%20BLE%20sound%20machine-6ecbff?style=for-the-badge" alt="dohm-ble" /></a>
@@ -42,11 +42,11 @@ also autistic. also loud about it. if for some reason you want the longer versio
   <a href="https://github.com/SolidifiedPlayDoh/solidified.dev"><img src="https://img.shields.io/badge/this%20website-solidified.dev-ff6b9d?style=for-the-badge" alt="solidified.dev repo" /></a>
 </p>
 
-there's more in the repos. some of it's public. some of it's "this is for me and my friends ;3"
+and if you cant see it. its not for you ;3
 
 ---
 
-### totally my greatest life achievement
+### my greatest life achievement
 
 i am 2025's **top 1% of chatgpt users**. (on a free account btw)
 
@@ -65,4 +65,4 @@ i am 2025's **top 1% of chatgpt users**. (on a free account btw)
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,6,20,8,24&section=footer" alt="" />
 </p>
 
-<p align="center"><sub>made with playdoh. and spite. and a lot of chatgpt apparently.</sub></p>
+<p align="center"><sub>made with playdoh (the hard kind), and apparently a fucking deadly amount of chatgpt holy shit</sub></p>
