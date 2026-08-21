@@ -57,8 +57,8 @@ i am 2025's **top 1% of chatgpt users**. (on a free account btw)
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SolidifiedPlayDoh&show_icons=true&theme=radical&hide_title=true&hide_rank=true&bg_color=0d1117&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2&border_color=ff6b9d" alt="soli's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolidifiedPlayDoh&layout=compact&theme=radical&hide_title=true&bg_color=0d1117&title_color=ffd93d&text_color=f8f8f2&border_color=7c5cff&langs_count=6" alt="languages i keep throwing at problems" />
+  <img src="https://github-readme-stats-official.vercel.app/api?username=SolidifiedPlayDoh&show_icons=true&theme=radical&hide_title=true&hide_rank=true&bg_color=0d1117&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2&border_color=ff6b9d" alt="soli's github stats" />
+  <img src="https://github-readme-stats-official.vercel.app/api/top-langs/?username=SolidifiedPlayDoh&layout=compact&theme=radical&hide_title=true&bg_color=0d1117&title_color=ffd93d&text_color=f8f8f2&border_color=7c5cff&langs_count=6" alt="languages i keep throwing at problems" />
 </p>
 
 <p align="center">
