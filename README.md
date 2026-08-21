@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,6,20,8,24&text=hewwooo!!&fontSize=72&fontAlignY=35&desc=i'm%20SolidifiedPlayDoh%20%3B3&descAlignY=58&descSize=24&animation=twinkling&fontColor=ffffff" alt="hewwooo!! i'm SolidifiedPlayDoh" />
 </p>
-
+(reload your browser to make this change color >w<)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=FF79C6&center=true&vCenter=true&width=620&height=50&lines=if+i+own+it.+i+mod+it.;making+things+do+what+they+weren't+meant+to;apps+%2B+hardware+hacks+%2B+weird+web+toys;meow" alt="typing" />
 </p>
