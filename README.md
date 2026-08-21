@@ -16,7 +16,7 @@
 
 ---
 
-hi i'm **soli**. sometimes **solidifiedplaydoh**. some ppl call me "big red" (for some fucking reason)
+hi i'm **soli**. sometimes **solidifiedplaydoh**. some ppl call me "big red" (probably because I eat enough cinnamon gum to kill a small elephant)
 
 i like hacking things (and no I dont mean the cringe "hacker" person that is usually a poser. I actually enjoy and get fun out of reverse engineering and flashing stuff to make them do what they were never meant to do. and this is something I think should be the norm. If I bought it. I have the right to hack it. and no company can tell me they will take it away from me if I do. it should be one of my rights, to mod my own stuff, reverse engineer the bluetooth. slap an overlay on it or install a minigame, neon-ify my editor until it looks like 2010 tron. that kind of crap. ITS MINE. LET ME TREAT IT LIKE IT IS
 
